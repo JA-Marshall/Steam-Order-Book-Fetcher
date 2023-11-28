@@ -12,7 +12,3 @@ It doesn't actually do anything with the data yet(WIP) but with this you could e
 1. Obtain a Webshare API key and set it as the `WEBSHARE_TOKEN` environment variable.
 2. Populate the `csgo.json` file with the desired item IDs.
 
-### Installation
-```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
