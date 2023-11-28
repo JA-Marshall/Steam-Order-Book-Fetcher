@@ -4,7 +4,10 @@
 This project is designed to fetch a snapshot in time of a steam market items order book, using their item IDs. It employs a rotating proxy system, using proxies obtained from the Webshare API to overcome rate limitations imposed by the Steam API.
 It doesn't actually do anything with the data yet(WIP) but with this you could extend it out and run it with cron jobs over an extended period of time to collect historical market data.
 
-## Usage
+![image](https://github.com/JA-Marshall/Steam-Order-Book-Fetcher/assets/9871373/c9c735ff-57ae-46b9-b58a-37ca3603729b)
+
+Collecting this data over a long enough timeframe gives insight into the total supply
+
 
 
 
